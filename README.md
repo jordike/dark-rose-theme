@@ -36,3 +36,7 @@ Only three files used are mine, those are:
 * The CSS file
 * The HTML file
 * and the JSON file
+
+## Name
+This theme is named after my online username, Valatos. As far as I know, it's not
+a real word and does not have a meaning. If it does, then know that's not intended.
