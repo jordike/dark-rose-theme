@@ -1,0 +1,13 @@
+{
+    "key": "value",
+    "number": 3,
+    "test": "number",
+    "nested": {
+        "list": [
+            "a",
+            "b",
+            3,
+            4
+        ]
+    }
+}
