@@ -108,6 +108,7 @@
 
                 "entity.other.attribute-name.html",
                 "meta.property-name.css",
+                "support.type.property-name.css",
                 "constant.other.class.php",
                 "markup.underline.link.markdown"
             ],
