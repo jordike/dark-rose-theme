@@ -88,7 +88,8 @@
                 "entity.name.tag.css",
                 "keyword.operator.logical.php",
                 "support.type.property-name.json",
-                "entity.name.section.markdown"
+                "entity.name.section.markdown",
+                "meta.tag.table.toml"
             ],
             "settings": {
                 "foreground": "#c2436d",
@@ -110,7 +111,8 @@
                 "meta.property-name.css",
                 "support.type.property-name.css",
                 "constant.other.class.php",
-                "markup.underline.link.markdown"
+                "markup.underline.link.markdown",
+                "keyword.key.toml"
             ],
             "settings": {
                 "foreground": "#b0a2e0",
