@@ -62,6 +62,10 @@
         "list.hoverBackground": "#3a3a3a",
         "list.activeSelectionBackground": "#464646",
         "list.focusOutline": "#464646",
+        "list.focusBackground": "#c2436d5b",
+        "list.highlightForeground": "#c2436d",
+
+        "pickerGroup.foreground": "#c2436d",
 
         "tab.activeBackground": "#3a3a3a",
         "tab.activeBorder": "#c2436d",
@@ -77,7 +81,9 @@
         "progressBar.background": "#c2436d",
 
         "titleBar.activeBackground": "#333333",
-        "titleBar.inactiveBackground": "#333333"
+        "titleBar.inactiveBackground": "#333333",
+
+        "editor.hoverHighlightBackground": "#c2436d27"
     },
     "tokenColors": [
         {
