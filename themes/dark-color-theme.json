@@ -5,6 +5,8 @@
     "type": "dark",
     "colors": {
         "focusBorder": "#c2436d",
+        "foreground": "#d3d3d3",
+        "selection.background": "#c2436d5b",
 
         "editor.background": "#202020",
         "editor.foreground": "#d3d3d3",
@@ -13,6 +15,7 @@
         "editor.findMatchHighlightBackground": "#e47d704d",
 
         "editor.selectionBackground": "#c2436d5b",
+        "minimap.selectionHighlight": "#c2436d5b",
 
         "textLink.foreground": "#c2436d",
 
@@ -69,7 +72,12 @@
         "panel.background": "#2b2b2b",
         "panel.border": "#454545",
 
-        "settings.modifiedItemIndicator": "#c2436d"
+        "settings.modifiedItemIndicator": "#c2436d",
+
+        "progressBar.background": "#c2436d",
+
+        "titleBar.activeBackground": "#333333",
+        "titleBar.inactiveBackground": "#333333"
     },
     "tokenColors": [
         {
@@ -194,6 +202,15 @@
             ],
             "settings": {
                 "foreground": "#82be8b",
+            }
+        },
+        {
+            "name": "Color 7",
+            "scope": [
+                "keyword.other.php"
+            ],
+            "settings": {
+                "foreground": "#d3d3d3"
             }
         },
 
