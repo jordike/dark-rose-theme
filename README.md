@@ -1,4 +1,4 @@
-# My Custom Theme
+# Valatos' Theme
 This theme is my own personal theme. It is the first theme I have ever made,
 and *was made to support my own needs*. Therefore, I cannot guarantee the theme
 to work with other technologies you use.
