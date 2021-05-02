@@ -6,7 +6,7 @@
         "name": "Jordi Keijzers"
     },
     "publisher": "jordikeijzers",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "license": "MIT",
     "engines": {
         "vscode": "^1.54.0"
@@ -24,7 +24,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Valatos Theme",
+                "label": "Valatos Theme (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-color-theme.json"
             }
