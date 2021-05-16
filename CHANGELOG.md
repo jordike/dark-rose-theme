@@ -4,6 +4,11 @@ All notable changes to the "custom-theme" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.3.2
+- Added CMake support.
+- Added link hover color.
+- Added checkbox color.
+
 ## 0.2.2
 - Changed the color of focusOutline to fix a color being looking weird.
 

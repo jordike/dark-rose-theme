@@ -10,6 +10,7 @@ languages:
 * C
 * C++
 * C#
+* CMake
 * CSS
 * HTML
 * Java

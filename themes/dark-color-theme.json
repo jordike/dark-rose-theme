@@ -18,6 +18,7 @@
         "minimap.selectionHighlight": "#c2436d5b",
 
         "textLink.foreground": "#c2436d",
+        "textLink.activeForeground": "#943253",
 
         "statusBar.background": "#4b4b4b",
         "statusBar.noFolderBackground": "#4b4b4b",
@@ -77,6 +78,10 @@
         "panel.border": "#454545",
 
         "settings.modifiedItemIndicator": "#c2436d",
+        "settings.checkboxBackground": "#c2436d",
+        "settings.checkboxBorder": "#813f55",
+
+        "checkbox.border": "#c2436d",
 
         "progressBar.background": "#c2436d",
 
@@ -97,10 +102,12 @@
                 "keyword.control",
                 "keyword.other",
                 "keyword.operator.expression",
+                "entity.name.tag",
 
-                "entity.name.tag.html",
-                "entity.name.tag.css",
+                // "entity.name.tag.html",
+                // "entity.name.tag.css",
                 "keyword.operator.logical.php",
+                "keyword.cmake",
                 "support.type.property-name.json",
                 "entity.name.section.markdown",
                 "meta.tag.table.toml"
@@ -121,7 +128,8 @@
                 "storage.type.generic",
                 "constant.character.escape",
 
-                "entity.other.attribute-name.html",
+                "entity.other.attribute-name",
+                "entity.source.cmake",
                 "meta.property-name.css",
                 "support.type.property-name.css",
                 "constant.other.class.php",
@@ -143,7 +151,7 @@
                 "punctuation.section.embedded.end.php",
                 "variable.other.global.php",
                 "variable.other.global.safer.php",
-                "entity.name.function.macro.rust",
+                "entity.name.function.macro.rust"
             ],
             "settings": {
                 "foreground": "#4788bd"
@@ -163,8 +171,11 @@
                 "keyword.other.type.php",
                 "storage.modifier.package.java",
                 "storage.modifier.import.java",
+                "storage.source.cmake",
                 "markup.bold.markdown",
-                "markup.italic.markdown"
+                "markup.italic.markdown",
+                "variable.source.cmake",
+                "variable.language.documentroot.xml"
             ],
             "settings": {
                 "foreground": "#7d91af",
@@ -187,7 +198,7 @@
                 "entity.other.inherited-class.php",
                 "support.function.magic.php",
                 "keyword.type.cs",
-                "storage.type.java",
+                "storage.type.java"
             ],
             "settings": {
                 "foreground": "#ee9c76",
