@@ -1,3 +1,0 @@
-[header]
-key = "value"
-list = { key = "value", nested_list = [ "value", "value" ] }
