@@ -4,6 +4,10 @@ All notable changes to the "custom-theme" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+# 0.4.2
+- Changed checkbox color
+- Embedded SQL statement support added
+
 ## 0.3.2
 - Added CMake support.
 - Added link hover color.

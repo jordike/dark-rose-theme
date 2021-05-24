@@ -1,11 +1,12 @@
 // https://code.visualstudio.com/api/references/theme-color
 
 {
-    "name": "Custom Theme (dark)",
+    "name": " Valatos Theme (dark)",
     "type": "dark",
     "colors": {
         "focusBorder": "#c2436d",
         "foreground": "#d3d3d3",
+
         "selection.background": "#c2436d5b",
 
         "editor.background": "#202020",
@@ -78,10 +79,8 @@
         "panel.border": "#454545",
 
         "settings.modifiedItemIndicator": "#c2436d",
-        "settings.checkboxBackground": "#c2436d",
-        "settings.checkboxBorder": "#813f55",
 
-        "checkbox.border": "#c2436d",
+        "checkbox.background": "#404040",
 
         "progressBar.background": "#c2436d",
 
@@ -222,9 +221,11 @@
             }
         },
         {
-            "name": "Color 7",
+            "name": "Color 7 - Normal white; reset color",
             "scope": [
-                "keyword.other.php"
+                "keyword.other.php",
+                "keyword.other.sql",
+                "source.sql.embedded"
             ],
             "settings": {
                 "foreground": "#d3d3d3"
