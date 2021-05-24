@@ -4,6 +4,9 @@ All notable changes to the "custom-theme" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+# 1.4.2
+- Light theme added (in beta, will change a lot)
+
 # 0.4.2
 - Changed checkbox color
 - Embedded SQL statement support added

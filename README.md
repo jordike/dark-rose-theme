@@ -3,6 +3,13 @@ This theme is my own personal theme. It is the first theme I have ever made,
 and *was made to support my own needs*. Therefore, I cannot guarantee the theme
 to work with other technologies you use.
 
+## Themes
+This theme consists of a dark theme and a light theme. The theme has been developed
+with the dark theme, so this is the one best supported.
+
+There is also a light theme, however, but that one is still being worked on. It is
+released already so I can use it and fix mistakes as they appear.
+
 ## Supported Languages
 This theme has been and tested with the following programming
 languages:
