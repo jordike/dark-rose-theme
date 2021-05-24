@@ -1,5 +1,3 @@
-.vscode/**
-.vscode-test/**
+/.vscode/**
+/theme_test_files
 .gitignore
-vsc-extension-quickstart.md
-./theme_test_files/
