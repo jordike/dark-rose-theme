@@ -1,3 +1,6 @@
+# 1.5.3
+- Updated icon
+
 # 1.5.2
 - Added an icon.
 - Updated light theme.
