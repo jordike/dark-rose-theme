@@ -1,8 +1,10 @@
-# Change Log
-
-All notable changes to the "custom-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+# 1.5.2
+- Added an icon.
+- Updated light theme.
+- Fixed wrong colors
+- Removed CSS property name color.
+- Removed TOML property name color
+- Gave ``this`` the same color as ``self``.
 
 # 1.4.2
 - Light theme added (in beta, will change a lot)
@@ -11,24 +13,23 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Changed checkbox color
 - Embedded SQL statement support added
 
-## 0.3.2
+# 0.3.2
 - Added CMake support.
 - Added link hover color.
 - Added checkbox color.
 
-## 0.2.2
+# 0.2.2
 - Changed the color of focusOutline to fix a color being looking weird.
 
-## 0.2.1
+# 0.2.1
 - Changed list colors
 - Changed some default colors to the pink-redish color.
 
-## 0.1.1
+# 0.1.1
 - Fixed colors not changing
 
-## 0.1.0
+# 0.1.0
 - Added TOML support
 
-## [Unreleased]
-
+# [Unreleased]
 - Initial release

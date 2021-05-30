@@ -6,7 +6,8 @@
         "name": "Jordi Keijzers"
     },
     "publisher": "jordikeijzers",
-    "version": "1.4.2",
+    "icon": "assets/icon.png",
+    "version": "1.5.2",
     "license": "MIT",
     "engines": {
         "vscode": "^1.54.0"
