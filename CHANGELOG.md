@@ -1,3 +1,6 @@
+# 1.5.4
+- Removed the background from the icon, so it fits well with light themes too.
+
 # 1.5.3
 - Updated icon
 
