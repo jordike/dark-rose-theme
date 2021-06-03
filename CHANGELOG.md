@@ -1,3 +1,7 @@
+# 1.5.5
+- Adjusted activity bar and title bar color so it fits better with the style of the dark theme.
+- Fixed support (built-in) functions not being highlighted correctly.
+
 # 1.5.4
 - Removed the background from the icon, so it fits well with light themes too.
 

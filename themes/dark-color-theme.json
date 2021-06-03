@@ -171,6 +171,7 @@
                 // "meta.function-call",
                 "entity.name.function",
                 "variable.language.this",
+                "support.function",
 
                 "meta.selector.css",
                 "meta.function.url.css",
