@@ -239,7 +239,6 @@
                 "variable.other",
                 "source.sql.embedded",
                 "keyword.other.php",
-                "keyword.other.sql",
                 "support.type.property-name.css",
                 "keyword.key.toml"
             ],

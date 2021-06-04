@@ -1,3 +1,6 @@
+# 1.5.6
+- Fixed embedded SQL statement keywords not being highlighted correctly.
+
 # 1.5.5
 - Adjusted activity bar and title bar color so it fits better with the style of the dark theme.
 - Fixed support (built-in) functions not being highlighted correctly.
