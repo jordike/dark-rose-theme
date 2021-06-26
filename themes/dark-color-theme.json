@@ -69,11 +69,10 @@
 
         "pickerGroup.foreground": "#c2436d",
 
-        "tab.activeBackground": "#3a3a3a",
-        "tab.activeBorder": "#c2436d",
+        "tab.activeBackground": "#202020",
         "tab.activeForeground": "#d3d3d3",
         "tab.inactiveBackground": "#2e2e2e",
-        "tab.hoverBackground": "#3f3f3f",
+        "tab.hoverBackground": "#3b3b3b",
 
         "panel.background": "#2b2b2b",
         "panel.border": "#454545",
@@ -106,6 +105,8 @@
                 "keyword.other",
                 "keyword.operator.expression",
                 "entity.name.tag",
+                "variable.language.self",
+                "variable.language.this",
 
                 // "entity.name.tag.html",
                 // "entity.name.tag.css",
@@ -116,10 +117,11 @@
                 "storage.type.ts",
                 "storage.type.rust",
                 "entity.name.section.markdown",
+                "entity.other.attribute-name.table.toml",
                 "meta.tag.table.toml"
             ],
             "settings": {
-                "foreground": "#c2436d",
+                "foreground": "#c2436d"
             }
         },
         {
@@ -135,7 +137,6 @@
                 "storage.type.generic",
                 "constant.character.escape",
 
-                "entity.other.attribute-name",
                 "entity.source.cmake",
                 "meta.property-name.css",
                 // "support.type.property-name.css",
@@ -159,7 +160,8 @@
                 "variable.other.global.php",
                 "variable.other.global.safer.php",
                 "entity.name.function.macro.rust",
-                "support.constant.json"
+                "support.constant.json",
+                "meta.macro.rust"
             ],
             "settings": {
                 "foreground": "#4788bd"
@@ -170,8 +172,8 @@
             "scope": [
                 // "meta.function-call",
                 "entity.name.function",
-                "variable.language.this",
                 "support.function",
+                "entity.other.attribute-name",
 
                 "meta.selector.css",
                 "meta.function.url.css",
@@ -221,8 +223,6 @@
                 "string",
                 "punctuation.definition.string",
                 "support.function.constructor",
-                "variable.language.self",
-                "variable.language.this",
 
                 "storage.type.class.jsdoc",
                 "keyword.other.phpdoc.php",
@@ -276,6 +276,7 @@
                 "punctuation.brackets.round.rust",
                 "meta.attribute.rust",
                 "meta.interpolation.rust",
+                "entity.name.function.attribute.rust",
                 "meta.preprocessor.cs"
             ],
             "settings": {
@@ -289,7 +290,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#7e7e7e",
+                "foreground": "#7e7e7e"
             }
         }
     ]

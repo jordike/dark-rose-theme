@@ -1,3 +1,9 @@
+# 1.6.6
+- Light theme is out of beta.
+- Modified tab colors.
+- Changed ``self`` and ``this`` to the keyword color.
+- Changed TOML attribute name color.
+
 # 1.5.6
 - Fixed embedded SQL statement keywords not being highlighted correctly.
 

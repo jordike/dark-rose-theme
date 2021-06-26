@@ -71,15 +71,16 @@
         "pickerGroup.foreground": "#c2436d",
 
         "tab.activeBackground": "#ececec",
-        "tab.activeBorder": "#c2436d",
-        // "tab.activeForeground": "#d3d3d3",
-        "tab.inactiveBackground": "#e2e2e2",
-        "tab.hoverBackground": "#dddddd",
+        "tab.activeForeground": "#5a5a5a",
+        "tab.inactiveBackground": "#d8d8d8",
+        "tab.hoverBackground": "#e4e4e4",
+        "tab.border": "#c9c9c9",
 
         "panel.background": "#dbdbdb",
         "panel.border": "#bebebe",
 
         "settings.modifiedItemIndicator": "#c2436d",
+        "settings.focusedRowBackground": "#d6d6d6",
 
         "checkbox.background": "#d3d3d3",
 
@@ -109,6 +110,8 @@
                 "keyword.other",
                 "keyword.operator.expression",
                 "entity.name.tag",
+                "variable.language.self",
+                "variable.language.this",
 
                 // "entity.name.tag.html",
                 // "entity.name.tag.css",
@@ -119,6 +122,7 @@
                 "storage.type.ts",
                 "storage.type.rust",
                 "entity.name.section.markdown",
+                "entity.other.attribute-name.table.toml",
                 "meta.tag.table.toml"
             ],
             "settings": {
@@ -162,7 +166,8 @@
                 "variable.other.global.php",
                 "variable.other.global.safer.php",
                 "entity.name.function.macro.rust",
-                "support.constant.json"
+                "support.constant.json",
+                "meta.macro.rust"
             ],
             "settings": {
                 "foreground": "#3394e2"
@@ -173,8 +178,8 @@
             "scope": [
                 // "meta.function-call",
                 "entity.name.function",
-                "variable.language.this",
                 "support.function",
+                "entity.other.attribute-name",
 
                 "meta.selector.css",
                 "meta.function.url.css",
@@ -224,8 +229,6 @@
                 "string",
                 "punctuation.definition.string",
                 "support.function.constructor",
-                "variable.language.self",
-                "variable.language.this",
 
                 "storage.type.class.jsdoc",
                 "keyword.other.phpdoc.php",
@@ -279,6 +282,7 @@
                 "punctuation.brackets.round.rust",
                 "meta.attribute.rust",
                 "meta.interpolation.rust",
+                "entity.name.function.attribute.rust",
                 "meta.preprocessor.cs"
             ],
             "settings": {
