@@ -98,6 +98,8 @@
                 "storage.type.class",
                 "storage.type.interface",
                 "storage.type.namespace",
+                "storage.type.struct",
+                "storage.type.enum",
                 "keyword.operator.type",
                 "keyword.operator.new",
                 "keyword.operator.delete",

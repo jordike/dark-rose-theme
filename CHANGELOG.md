@@ -1,3 +1,6 @@
+# 1.6.7
+- Added ``struct`` and ``enum`` to the keyword list.
+
 # 1.6.6
 - Light theme is out of beta.
 - Modified tab colors.
