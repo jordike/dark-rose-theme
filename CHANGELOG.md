@@ -1,3 +1,8 @@
+# 1.7.7
+- Added highlighting for ``super``.
+- Gave a dot used to indicate decimals the same color as numbers.
+- Removed highlighting from namespaces.
+
 # 1.6.7
 - Added ``struct`` and ``enum`` to the keyword list.
 

@@ -114,6 +114,7 @@
                 "entity.name.tag",
                 "variable.language.self",
                 "variable.language.this",
+                "variable.language.super",
 
                 // "entity.name.tag.html",
                 // "entity.name.tag.css",
@@ -140,7 +141,7 @@
                 "entity.name.scope-resolution",
                 "entity.name.other.preprocessor.macro",
                 "storage.type.annotation",
-                "entity.name.namespace",
+                // "entity.name.namespace",
                 "storage.type.generic",
                 "constant.character.escape",
 
@@ -215,6 +216,7 @@
                 "support.type.primitive",
                 "keyword.other.unit.suffix.integer",
                 "entity.name.type",
+                "punctuation.seperator.dot.decimal",
 
                 "entity.other.inherited-class.php",
                 "support.function.magic.php",
