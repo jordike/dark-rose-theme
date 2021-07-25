@@ -163,6 +163,8 @@
                 "variable.other.global.php",
                 "variable.other.global.safer.php",
                 "entity.name.function.macro.rust",
+                "entity.name.type.lifetime.rust",
+                "punctuation.definition.lifetime.rust",
                 "support.constant.json",
                 "meta.macro.rust"
             ],

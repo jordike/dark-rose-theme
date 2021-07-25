@@ -1,3 +1,6 @@
+# 1.8.7
+- Changed lifetime color in Rust.
+
 # 1.7.7
 - Added highlighting for ``super``.
 - Gave a dot used to indicate decimals the same color as numbers.
