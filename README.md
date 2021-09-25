@@ -1,5 +1,5 @@
 # Valatos' Theme
-This theme is my own personal theme. It is the first theme I have ever made,
+This theme is my own personal theme. You are free to contribute to it, though. It is the first theme I have ever made,
 and *was made to support my own needs*. Therefore, I cannot guarantee the theme
 to work with other technologies you use.
 
@@ -31,6 +31,9 @@ languages:
 The theme *may* work with other programming languages, but they
 have not been tested. The theme was made first and foremost to support
 my needs, however you may use it if you want.
+
+## Contributing
+Everyone is free to contribute if they wish to do so.
 
 ## Name
 This theme is named after my online username, Valatos. As far as I know, it's not

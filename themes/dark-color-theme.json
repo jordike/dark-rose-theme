@@ -7,6 +7,9 @@
         "focusBorder": "#c2436d",
         "foreground": "#d3d3d3",
 
+        "editor.lineHighlightBackground": "#252525",
+        "editor.lineHighlightBorder": "#252525",
+
         "selection.background": "#c2436d5b",
 
         "editor.background": "#202020",
@@ -61,11 +64,13 @@
         "editorGroupHeader.noTabsBackground": "#272727",
         "editorGroupHeader.tabsBackground": "#272727",
 
-        "list.hoverBackground": "#3a3a3a",
-        "list.activeSelectionBackground": "#464646",
-        "list.focusOutline": "#2b2b2b",
-        "list.focusBackground": "#c2436d5b",
-        "list.highlightForeground": "#c2436d",
+        "list.hoverBackground": "#353535",
+        "list.dropBackground": "#c2436d5b",
+        "list.activeSelectionBackground": "#c2436d5b",
+        "list.inactiveSelectionBackground": "#c2436d5b",
+        "list.focusOutline": "#c2436dda",
+        // "list.focusBackground": "#c2436d33",
+        "list.highlightForeground": "#c2436da1",
 
         "pickerGroup.foreground": "#c2436d",
 
@@ -86,7 +91,12 @@
         "titleBar.activeBackground": "#333333",
         "titleBar.inactiveBackground": "#333333",
 
-        "editor.hoverHighlightBackground": "#c2436d27"
+        "editor.hoverHighlightBackground": "#c2436d27",
+
+        "editorInlayHint.background": "#b65d5d",
+
+        "editor.wordHighlightBackground": "#424242",
+        "editor.wordHighlightStrongBackground": "#c2436d60"
     },
     "tokenColors": [
         {

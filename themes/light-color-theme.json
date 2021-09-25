@@ -7,6 +7,9 @@
         "focusBorder": "#c2436d",
         "foreground": "#272727",
 
+        "editor.lineHighlightBackground": "#e6e6e6",
+        "editor.lineHighlightBorder": "#e6e6e6",
+
         "selection.background": "#c2436d5b",
 
         "editor.background": "#ececec",
@@ -90,8 +93,6 @@
         "titleBar.inactiveBackground": "#cecece",
 
         "editor.hoverHighlightBackground": "#c2436d27",
-
-        "editor.lineHighlightBorder": "#e4e4e4"
     },
     "tokenColors": [
         {

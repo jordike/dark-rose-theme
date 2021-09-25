@@ -1,3 +1,8 @@
+# 1.9.7
+- Added inlay support.
+- Gave the line with the cursor on it a background color.
+- Changed colors of the file explorer.
+
 # 1.8.7
 - Changed lifetime color in Rust.
 
