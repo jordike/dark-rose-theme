@@ -93,7 +93,7 @@
 
         "editor.hoverHighlightBackground": "#c2436d27",
 
-        "editorInlayHint.background": "#b65d5d",
+        "editorInlayHint.background": "#494949",
 
         "editor.wordHighlightBackground": "#424242",
         "editor.wordHighlightStrongBackground": "#c2436d60"

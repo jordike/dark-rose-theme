@@ -1,3 +1,6 @@
+# 1.9.8
+- Fixed inlay color.
+
 # 1.9.7
 - Added inlay support.
 - Gave the line with the cursor on it a background color.
