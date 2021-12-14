@@ -93,6 +93,11 @@
         "titleBar.inactiveBackground": "#cecece",
 
         "editor.hoverHighlightBackground": "#c2436d27",
+
+        "editor.wordHighlightBackground": "#dddddd",
+        "editor.wordHighlightStrongBackground": "#c2436d60",
+
+        "tab.activeBorderTop": "#c2436d"
     },
     "tokenColors": [
         {

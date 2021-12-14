@@ -1,3 +1,6 @@
+# 1.10.8
+- Added top border color to the active tab.
+
 # 1.9.8
 - Fixed inlay color.
 

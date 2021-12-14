@@ -96,7 +96,9 @@
         "editorInlayHint.background": "#494949",
 
         "editor.wordHighlightBackground": "#424242",
-        "editor.wordHighlightStrongBackground": "#c2436d60"
+        "editor.wordHighlightStrongBackground": "#c2436d60",
+
+        "tab.activeBorderTop": "#c2436d"
     },
     "tokenColors": [
         {
