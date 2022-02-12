@@ -7,7 +7,7 @@
     },
     "publisher": "jordikeijzers",
     "icon": "assets/icon.png",
-    "version": "1.10.8",
+    "version": "1.11.8",
     "license": "MIT",
     "engines": {
         "vscode": "^1.54.0"
@@ -22,6 +22,7 @@
     "bugs": {
         "url": "https://github.com/jordike/valatos-theme/issues"
     },
+    "homepage": "https://github.com/jordike/valatos-theme",
     "contributes": {
         "themes": [
             {

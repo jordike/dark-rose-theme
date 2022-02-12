@@ -1,3 +1,6 @@
+# 1.11.8
+- Changed the inactive list selection color to grey.
+
 # 1.10.8
 - Added top border color to the active tab.
 
