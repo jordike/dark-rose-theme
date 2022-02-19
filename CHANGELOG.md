@@ -1,3 +1,10 @@
+# 1.12.8
+- Added Python support.
+- Removed the color from namespaces.
+- Gave inherited classes the same color as regular types.
+- Changed the scope resolution color.
+- Changed C and C++ preprocessor colors.
+
 # 1.11.8
 - Changed the inactive list selection color to grey.
 

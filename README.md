@@ -25,6 +25,7 @@ languages:
 * JSon
 * Markdown
 * PHP
+* Python
 * Rust
 * TypeScript
 

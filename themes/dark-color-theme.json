@@ -112,12 +112,15 @@
                 "storage.type.namespace",
                 "storage.type.struct",
                 "storage.type.enum",
+                "storage.type.modifier",
+                "storage.type.template",
                 "keyword.operator.type",
                 "keyword.operator.new",
                 "keyword.operator.delete",
                 "keyword.control",
                 "keyword.other",
                 "keyword.operator.expression",
+                "keyword.operator.logical",
                 "entity.name.tag",
                 "variable.language.self",
                 "variable.language.this",
@@ -133,7 +136,9 @@
                 "storage.type.rust",
                 "entity.name.section.markdown",
                 "entity.other.attribute-name.table.toml",
-                "meta.tag.table.toml"
+                "meta.tag.table.toml",
+                "variable.parameter.function.language.special.self.python",
+                "variable.language.special.self.python",
             ],
             "settings": {
                 "foreground": "#c2436d"
@@ -142,10 +147,7 @@
         {
             "name": "Color 2",
             "scope": [
-                "keyword.operator.sizeof",
-                "entity.other.inherited-class",
                 "entity.name.function.preprocessor",
-                "entity.name.scope-resolution",
                 "entity.name.other.preprocessor.macro",
                 "storage.type.annotation",
                 // "entity.name.namespace",
@@ -194,11 +196,10 @@
 
                 "meta.selector.css",
                 "meta.function.url.css",
-                "support.other.namespace.php",
+                "meta.function-call.generic.python",
                 "support.function.construct.output.php",
                 "keyword.other.type.php",
-                "storage.modifier.package.java",
-                "storage.modifier.import.java",
+                "keyword.operator.sizeof.cpp",
                 "storage.source.cmake",
                 "markup.bold.markdown",
                 "markup.italic.markdown",
@@ -215,6 +216,7 @@
             "scope": [
                 "constant.numeric",
                 "constant.language",
+                "entity.other.inherited-class",
                 "storage.type",
                 // "storage.type.built-in",
                 // "storage.type.built-in.primitive",
@@ -225,8 +227,9 @@
                 "keyword.other.unit.suffix.integer",
                 "entity.name.type",
                 "punctuation.separator.dot.decimal",
+                "entity.other.inherited-class",
+                "keyword.other.unit",
 
-                "entity.other.inherited-class.php",
                 "support.function.magic.php",
                 "keyword.type.cs",
                 "storage.type.java"
@@ -258,10 +261,23 @@
                 "source.sql.embedded",
                 "keyword.other.php",
                 "support.type.property-name.css",
-                "keyword.key.toml"
+                "support.other.namespace",
+                "keyword.key.toml",
+                "entity.name.type.namespace.cs",
+                "storage.modifier.package.java",
+                "storage.modifier.import.java"
             ],
             "settings": {
                 "foreground": "#d3d3d3"
+            }
+        },
+        {
+            "name": "Color 8",
+            "scope": [
+                "entity.name.scope-resolution",
+            ],
+            "settings": {
+                "foreground": "#75b5c0"
             }
         },
 
@@ -274,6 +290,7 @@
                 "keyword.operator",
                 "keyword.operator.type.annotation",
                 "keyword.control.ternary",
+                "keyword.control.directive",
                 "punctuation.accessor",
                 "meta.brace",
                 "storage.type.function.arrow",
@@ -295,7 +312,9 @@
                 "meta.attribute.rust",
                 "meta.interpolation.rust",
                 "entity.name.function.attribute.rust",
-                "meta.preprocessor.cs"
+                "meta.preprocessor.cs",
+                "meta.function.decorator.python",
+                "entity.name.function.decorator.python"
             ],
             "settings": {
                 "foreground": "#a3a3a3",
