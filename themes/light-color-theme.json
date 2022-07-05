@@ -156,8 +156,8 @@
                 "entity.other.attribute-name",
                 "entity.source.cmake",
                 "meta.property-name.css",
+                "meta.property-name.scss",
                 // "support.type.property-name.css",
-                "constant.other.class.php",
                 "markup.underline.link.markdown",
                 "keyword.key.toml"
             ],
@@ -171,6 +171,7 @@
                 // "variable.other.object",
 
                 "meta.property-value.css",
+                "meta.property-value.scss",
                 "punctuation.definition.constant.css",
                 "punctuation.section.embedded.begin.php",
                 "punctuation.section.embedded.end.php",

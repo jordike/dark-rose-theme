@@ -22,11 +22,12 @@ languages:
 * HTML
 * Java
 * JavaScript
-* JSon
+* Json
 * Markdown
 * PHP
 * Python
 * Rust
+* SCSS
 * TypeScript
 
 The theme *may* work with other programming languages, but they
@@ -38,4 +39,6 @@ Everyone is free to contribute if they wish to do so.
 
 ## Name
 This theme is named after my online username, Valatos. As far as I know, it's not
-a real word and does not have a meaning. If it does, then know that's not intended.
+a real word and does not have a meaning. If it does, then that's not intended.
+
+I want to change the name of this theme eventually, but I am not sure if that is possible to do, and if it is, to what.
