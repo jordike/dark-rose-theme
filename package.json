@@ -1,13 +1,13 @@
 {
-    "name": "valatos-theme",
-    "displayName": "Valatos' Theme",
-    "description": "My own personal custom theme.",
+    "name": "dark-rose-theme",
+    "displayName": "Dark Rose Theme",
+    "description": "My own custom theme.",
     "author": {
         "name": "Jordi Keijzers"
     },
     "publisher": "jordikeijzers",
     "icon": "assets/icon.png",
-    "version": "1.13.8",
+    "version": "2.13.8",
     "license": "MIT",
     "engines": {
         "vscode": "^1.54.0"
@@ -17,21 +17,21 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/jordike/valatos-theme"
+        "url": "https://github.com/jordike/dark-rose-theme"
     },
     "bugs": {
-        "url": "https://github.com/jordike/valatos-theme/issues"
+        "url": "https://github.com/jordike/dark-rose-theme/issues"
     },
-    "homepage": "https://github.com/jordike/valatos-theme",
+    "homepage": "https://github.com/jordike/dark-rose-theme",
     "contributes": {
         "themes": [
             {
-                "label": "Valatos Theme Dark",
+                "label": "Dark Rose",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-color-theme.json"
             },
             {
-                "label": "Valatos Theme Light",
+                "label": "Dark Rose Light",
                 "uiTheme": "vs",
                 "path": "./themes/light-color-theme.json"
             }

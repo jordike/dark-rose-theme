@@ -1,7 +1,7 @@
 // https://code.visualstudio.com/api/references/theme-color
 
 {
-    "name": "Valatos Theme Dark",
+    "name": "Dark Rose",
     "type": "dark",
     "colors": {
         "focusBorder": "#c2436d",
@@ -69,7 +69,6 @@
         "list.activeSelectionBackground": "#c2436d5b",
         "list.inactiveSelectionBackground": "#414141",
         "list.focusOutline": "#c2436dda",
-        // "list.focusBackground": "#c2436d33",
         "list.highlightForeground": "#c2436da1",
 
         "pickerGroup.foreground": "#c2436d",
@@ -126,8 +125,6 @@
                 "variable.language.this",
                 "variable.language.super",
 
-                // "entity.name.tag.html",
-                // "entity.name.tag.css",
                 "keyword.operator.logical.php",
                 "keyword.cmake",
                 "support.type.property-name.json",
@@ -150,14 +147,12 @@
                 "entity.name.function.preprocessor",
                 "entity.name.other.preprocessor.macro",
                 "storage.type.annotation",
-                // "entity.name.namespace",
                 "storage.type.generic",
                 "constant.character.escape",
 
                 "entity.source.cmake",
                 "meta.property-name.css",
                 "meta.property-name.scss",
-                // "support.type.property-name.css",
                 "markup.underline.link.markdown",
                 "keyword.key.toml"
             ],
@@ -168,8 +163,6 @@
         {
             "name": "Color 3",
             "scope": [
-                // "variable.other.object",
-
                 "meta.property-value.css",
                 "meta.property-value.scss",
                 "punctuation.definition.constant.css",
@@ -190,7 +183,6 @@
         {
             "name": "Color 4",
             "scope": [
-                // "meta.function-call",
                 "entity.name.function",
                 "support.function",
                 "entity.other.attribute-name",
@@ -219,8 +211,6 @@
                 "constant.language",
                 "entity.other.inherited-class",
                 "storage.type",
-                // "storage.type.built-in",
-                // "storage.type.built-in.primitive",
                 "support.class",
                 "support.type",
                 "support.type.builtin",

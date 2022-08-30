@@ -1,7 +1,7 @@
 // https://code.visualstudio.com/api/references/theme-color
 
 {
-    "name": " Valatos Theme Light",
+    "name": "Dark Rose Light",
     "type": "light",
     "colors": {
         "focusBorder": "#c2436d",

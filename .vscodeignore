@@ -1,3 +1,4 @@
 /.vscode/**
 /theme_test_files
 .gitignore
+personal-access-token.txt

@@ -1,3 +1,4 @@
 /.vscode/settings.json
 /theme_test_files
-valatos-theme-*.vsix
+*.vsix
+personal-access-token.txt

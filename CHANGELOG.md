@@ -1,7 +1,6 @@
 # 1.13.8
 - SCSS support.
 
-
 # 1.12.8
 - Added Python support.
 - Removed the color from namespaces.

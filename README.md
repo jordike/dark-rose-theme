@@ -1,18 +1,11 @@
-# Valatos' Theme
-This theme is my own personal theme. You are free to contribute to it, though. It is the first theme I have ever made,
-and *was made to support my own needs*. Therefore, I cannot guarantee the theme
-to work with other technologies you use.
+#  Dark Rose Theme
 
-## Themes
-This theme consists of a dark theme and a light theme. The theme has been developed
-with the dark theme, so this is the one best supported.
-
-There is also a light theme, however, but that one is still being worked on. It is
-released already so I can use it and fix mistakes as they appear.
+<center>
+    <img src="assets/icon.png" width="150">
+</center>
 
 ## Supported Languages
-This theme has been and tested with the following programming
-languages:
+This theme has been tested with the following programming languages:
 
 * C
 * C++
@@ -30,15 +23,29 @@ languages:
 * SCSS
 * TypeScript
 
-The theme *may* work with other programming languages, but they
-have not been tested. The theme was made first and foremost to support
-my needs, however you may use it if you want.
+The theme *may* work with other programming languages, but they have not been tested.
+
+## Screenshots
+### Python
+<img src="./assets/screenshots/python.jpg" width="700" />
+
+<small>Source code: https://github.com/django/django/blob/main/django/http/request.py#L448</small>
+<br />
+<small>Font: JetBrains Mono</small>
+
+### C++
+<img src="./assets/screenshots/cpp.jpg" width="700" />
+
+<small>Source code: https://github.com/yuzu-emu/yuzu/blob/master/src/yuzu/game_list.cpp#L34</small>
+<br />
+<small>Font: JetBrains Mono</small>
+
+### TypeScript
+<img src="./assets/screenshots/typescript.jpg" width="700">
+
+<small>Source code: https://github.com/microsoft/vscode/blob/main/src/vs/workbench/api/common/extHostTypeConverters.ts#L307</small>
+<br />
+<small>Font: JetBrains Mono</small>
 
 ## Contributing
 Everyone is free to contribute if they wish to do so.
-
-## Name
-This theme is named after my online username, Valatos. As far as I know, it's not
-a real word and does not have a meaning. If it does, then that's not intended.
-
-I want to change the name of this theme eventually, but I am not sure if that is possible to do, and if it is, to what.
