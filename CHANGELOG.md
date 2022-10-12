@@ -1,3 +1,11 @@
+# 2.13.9
+- Removed light theme.
+- Added Laravel Blade support.
+- Fixed PHPs `trait` keyword being given the wrong color.
+- Fixed TypeScripts `type` keyword being given the wrong color.
+- Changed doc comment colors.
+- Fixed types in PHPdoc having the wrong color.
+
 # 1.13.8
 - SCSS support.
 

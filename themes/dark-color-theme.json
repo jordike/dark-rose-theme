@@ -101,7 +101,7 @@
     },
     "tokenColors": [
         {
-            "name": "Color 1",
+            "name": "Color 1 - Red",
             "scope": [
                 "storage.type",
                 "storage.type.function",
@@ -125,24 +125,26 @@
                 "variable.language.this",
                 "variable.language.super",
 
-                "keyword.operator.logical.php",
                 "keyword.cmake",
+                "keyword.blade",
                 "support.type.property-name.json",
                 "storage.type.js",
                 "storage.type.ts",
+                "storage.type.type.ts",
                 "storage.type.rust",
                 "entity.name.section.markdown",
                 "entity.other.attribute-name.table.toml",
                 "meta.tag.table.toml",
                 "variable.parameter.function.language.special.self.python",
                 "variable.language.special.self.python",
+                "storage.type.trait.php",
             ],
             "settings": {
-                "foreground": "#c2436d"
+                "foreground": "#943353"
             }
         },
         {
-            "name": "Color 2",
+            "name": "Color 2 - Purple",
             "scope": [
                 "entity.name.function.preprocessor",
                 "entity.name.other.preprocessor.macro",
@@ -161,7 +163,7 @@
             }
         },
         {
-            "name": "Color 3",
+            "name": "Color 3 - Blue",
             "scope": [
                 "meta.property-value.css",
                 "meta.property-value.scss",
@@ -174,14 +176,17 @@
                 "entity.name.type.lifetime.rust",
                 "punctuation.definition.lifetime.rust",
                 "support.constant.json",
-                "meta.macro.rust"
+                "meta.macro.rust",
+                "storage.type.class.jsdoc",
+                "keyword.other.phpdoc.php",
+                "keyword.other.documentation.javadoc.java",
             ],
             "settings": {
                 "foreground": "#4788bd"
             }
         },
         {
-            "name": "Color 4",
+            "name": "Color 4 - Dark blue",
             "scope": [
                 "entity.name.function",
                 "support.function",
@@ -191,12 +196,11 @@
                 "meta.function.url.css",
                 "meta.function-call.generic.python",
                 "support.function.construct.output.php",
-                "keyword.other.type.php",
                 "keyword.operator.sizeof.cpp",
                 "storage.source.cmake",
+                "variable.source.cmake",
                 "markup.bold.markdown",
                 "markup.italic.markdown",
-                "variable.source.cmake",
                 "variable.language.documentroot.xml",
                 "support.function.json.ts"
             ],
@@ -205,7 +209,7 @@
             }
         },
         {
-            "name": "Color 5",
+            "name": "Color 5 - Orange",
             "scope": [
                 "constant.numeric",
                 "constant.language",
@@ -221,7 +225,9 @@
                 "entity.other.inherited-class",
                 "keyword.other.unit",
 
-                "support.function.magic.php",
+                "keyword.other.type.php",
+                "support.other.type.phpdoc.php",
+                "punctuation.seperator.decimal.period.php",
                 "keyword.type.cs",
                 "storage.type.java"
             ],
@@ -230,15 +236,11 @@
             }
         },
         {
-            "name": "Color 6",
+            "name": "Color 6 - Green",
             "scope": [
                 "string",
-                "punctuation.definition.string",
-                "support.function.constructor",
 
-                "storage.type.class.jsdoc",
-                "keyword.other.phpdoc.php",
-                "keyword.other.documentation.javadoc.java",
+                "punctuation.definition.string",
                 "markup.inline.raw.string.markdown"
             ],
             "settings": {
@@ -250,9 +252,10 @@
             "scope": [
                 "variable.other",
                 "source.sql.embedded",
+                "support.other.namespace",
+
                 "keyword.other.php",
                 "support.type.property-name.css",
-                "support.other.namespace",
                 "keyword.key.toml",
                 "entity.name.type.namespace.cs",
                 "storage.modifier.package.java",
@@ -265,7 +268,7 @@
         {
             "name": "Color 8",
             "scope": [
-                "entity.name.scope-resolution",
+                "entity.name.scope-resolution"
             ],
             "settings": {
                 "foreground": "#75b5c0"
@@ -280,6 +283,7 @@
                 "punctuation.terminator",
                 "keyword.operator",
                 "keyword.operator.type.annotation",
+                "keyword.operator.logical",
                 "keyword.control.ternary",
                 "keyword.control.directive",
                 "punctuation.accessor",
@@ -296,8 +300,13 @@
                 "punctuation.bracket.round",
                 "punctuation.bracket.angle",
 
+                "support.function.construct.begin.blade",
+                "support.function.construct.end.blade",
+                "begin.bracket.round.blade.php",
+                "end.bracket.round.blade.php",
                 "constant.language.import-export-all.ts",
                 "keyword.operator.type.ts",
+                "keyword.other.array.phpdoc.php",
                 "punctuation.brackets.attribute.rust",
                 "punctuation.brackets.round.rust",
                 "meta.attribute.rust",
