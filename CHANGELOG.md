@@ -1,3 +1,6 @@
+# 2.14.10
+- Moved Python operators (`and`, `or`, `not`, etc.) from the operators group to the keyword group.
+
 # 2.13.10
 - Reversed an accidental color change.
 

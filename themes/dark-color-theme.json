@@ -137,6 +137,7 @@
                 "meta.tag.table.toml",
                 "variable.parameter.function.language.special.self.python",
                 "variable.language.special.self.python",
+                "keyword.operator.logical.python",
                 "storage.type.trait.php",
             ],
             "settings": {
