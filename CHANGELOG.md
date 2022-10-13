@@ -1,3 +1,6 @@
+# 2.13.10
+- Reversed an accidental color change.
+
 # 2.13.9
 - Removed light theme.
 - Added Laravel Blade support.
