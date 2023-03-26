@@ -92,7 +92,8 @@
 
         "editor.hoverHighlightBackground": "#c2436d27",
 
-        "editorInlayHint.background": "#494949",
+        "editorInlayHint.background": "#252525",
+        "editorInlayHint.foreground": "#858585",
 
         "editor.wordHighlightBackground": "#424242",
         "editor.wordHighlightStrongBackground": "#c2436d60",
@@ -113,13 +114,16 @@
                 "storage.type.enum",
                 "storage.type.modifier",
                 "storage.type.template",
+                "keyword",
                 "keyword.operator.type",
                 "keyword.operator.new",
                 "keyword.operator.delete",
+                "keyword.operator.cast",
                 "keyword.control",
                 "keyword.other",
                 "keyword.operator.expression",
                 "keyword.operator.logical",
+                "keyword.declaration",
                 "entity.name.tag",
                 "variable.language.self",
                 "variable.language.this",
@@ -138,7 +142,7 @@
                 "variable.parameter.function.language.special.self.python",
                 "variable.language.special.self.python",
                 "keyword.operator.logical.python",
-                "storage.type.trait.php",
+                "storage.type.trait.php"
             ],
             "settings": {
                 "foreground": "#c2436d"
@@ -190,6 +194,7 @@
             "name": "Color 4 - Dark blue",
             "scope": [
                 "entity.name.function",
+                "entity.name.function.call",
                 "support.function",
                 "entity.other.attribute-name",
 
@@ -230,7 +235,8 @@
                 "support.other.type.phpdoc.php",
                 "punctuation.seperator.decimal.period.php",
                 "keyword.type.cs",
-                "storage.type.java"
+                "storage.type.java",
+                "storage.type.generic.java"
             ],
             "settings": {
                 "foreground": "#ee9c76",
@@ -251,7 +257,7 @@
         {
             "name": "Color 7 - Normal white; reset color",
             "scope": [
-                "variable.other",
+                // "variable.other",
                 "source.sql.embedded",
                 "support.other.namespace",
 
@@ -269,7 +275,7 @@
         {
             "name": "Color 8",
             "scope": [
-                "entity.name.scope-resolution"
+                "entity.name.scope-resolution.cpp",
             ],
             "settings": {
                 "foreground": "#75b5c0"
@@ -310,12 +316,15 @@
                 "keyword.other.array.phpdoc.php",
                 "punctuation.brackets.attribute.rust",
                 "punctuation.brackets.round.rust",
+                "punctuation.dot.dart",
                 "meta.attribute.rust",
                 "meta.interpolation.rust",
                 "entity.name.function.attribute.rust",
                 "meta.preprocessor.cs",
                 "meta.function.decorator.python",
-                "entity.name.function.decorator.python"
+                "entity.name.function.decorator.python",
+                "storage.type.annotation.java",
+                "storage.type.annotation.dart"
             ],
             "settings": {
                 "foreground": "#a3a3a3",

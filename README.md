@@ -13,6 +13,7 @@ This theme has been tested with the following programming languages:
 * C#
 * CMake
 * CSS
+* Dart
 * HTML
 * Java
 * JavaScript

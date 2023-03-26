@@ -1,3 +1,7 @@
+# 2.15.10
+- Added Dart support.
+- Changed inlay color so it is less obvious and less distracting.
+
 # 2.14.10
 - Moved Python operators (`and`, `or`, `not`, etc.) from the operators group to the keyword group.
 
