@@ -257,7 +257,7 @@
         {
             "name": "Color 7 - Normal white; reset color",
             "scope": [
-                // "variable.other",
+                "variable.other",
                 "source.sql.embedded",
                 "support.other.namespace",
 

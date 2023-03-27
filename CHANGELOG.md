@@ -1,3 +1,6 @@
+# 2.15.11
+- Fixed ``variable.other`` having the wrong color.
+
 # 2.15.10
 - Added Dart support.
 - Changed inlay color so it is less obvious and less distracting.
