@@ -1,3 +1,7 @@
+# 2.15.12
+- Interpolated strings in Dart are now correctly highlighted.
+- ``this`` and ``super`` are now correctly highlighted in Dart.
+
 # 2.15.11
 - Fixed ``variable.other`` having the wrong color.
 

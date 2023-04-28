@@ -131,6 +131,7 @@
 
                 "keyword.cmake",
                 "keyword.blade",
+                "variable.language.dart",
                 "support.type.property-name.json",
                 "storage.type.js",
                 "storage.type.ts",
@@ -263,6 +264,7 @@
 
                 "keyword.other.php",
                 "support.type.property-name.css",
+                "variable.parameter.dart",
                 "keyword.key.toml",
                 "entity.name.type.namespace.cs",
                 "storage.modifier.package.java",
