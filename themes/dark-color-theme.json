@@ -22,7 +22,7 @@
         "minimap.selectionHighlight": "#c2436d5b",
 
         "textLink.foreground": "#c2436d",
-        "textLink.activeForeground": "#943253",
+        "textLink.activeForeground": "#a52b54f8",
 
         "statusBar.background": "#4b4b4b",
         "statusBar.noFolderBackground": "#4b4b4b",
@@ -69,7 +69,7 @@
         "list.activeSelectionBackground": "#c2436d5b",
         "list.inactiveSelectionBackground": "#414141",
         "list.focusOutline": "#c2436dda",
-        "list.highlightForeground": "#c2436da1",
+        "list.highlightForeground": "#df416ecb",
 
         "pickerGroup.foreground": "#c2436d",
 
@@ -98,7 +98,18 @@
         "editor.wordHighlightBackground": "#424242",
         "editor.wordHighlightStrongBackground": "#c2436d60",
 
-        "tab.activeBorderTop": "#c2436d"
+        "tab.activeBorderTop": "#c2436d",
+
+        "peekViewEditor.background": "#38141956",
+        "peekView.border": "#c2436d",
+        "peekViewResult.selectionBackground": "#c2436d5b",
+        "peekViewEditor.matchHighlightBackground": "#dd822d3f",
+        "peekViewEditor.matchHighlightBorder": "#dd822d63",
+
+        "editor.findMatchHighlightBorder": "#dd822d63",
+        "editor.findMatchBorder": "#85d78d4e",
+
+        "inputOption.activeBorder": "#c2436d"
     },
     "tokenColors": [
         {
@@ -165,7 +176,7 @@
                 "keyword.key.toml"
             ],
             "settings": {
-                "foreground": "#b0a2e0",
+                "foreground": "#b0a2e0"
             }
         },
         {
@@ -185,7 +196,7 @@
                 "meta.macro.rust",
                 "storage.type.class.jsdoc",
                 "keyword.other.phpdoc.php",
-                "keyword.other.documentation.javadoc.java",
+                "keyword.other.documentation.javadoc.java"
             ],
             "settings": {
                 "foreground": "#4788bd"
@@ -212,7 +223,7 @@
                 "support.function.json.ts"
             ],
             "settings": {
-                "foreground": "#7d91af",
+                "foreground": "#7d91af"
             }
         },
         {
@@ -240,7 +251,7 @@
                 "storage.type.generic.java"
             ],
             "settings": {
-                "foreground": "#ee9c76",
+                "foreground": "#ee9c76"
             }
         },
         {
@@ -252,7 +263,7 @@
                 "markup.inline.raw.string.markdown"
             ],
             "settings": {
-                "foreground": "#82be8b",
+                "foreground": "#82be8b"
             }
         },
         {
@@ -276,9 +287,7 @@
         },
         {
             "name": "Color 8",
-            "scope": [
-                "entity.name.scope-resolution.cpp",
-            ],
+            "scope": ["entity.name.scope-resolution.cpp"],
             "settings": {
                 "foreground": "#75b5c0"
             }
@@ -329,15 +338,12 @@
                 "storage.type.annotation.dart"
             ],
             "settings": {
-                "foreground": "#a3a3a3",
+                "foreground": "#a3a3a3"
             }
         },
         {
             "name": "Comments",
-            "scope": [
-                "comment",
-                "punctuation.definition.comment"
-            ],
+            "scope": ["comment", "punctuation.definition.comment"],
             "settings": {
                 "foreground": "#7e7e7e"
             }
